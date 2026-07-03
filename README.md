@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 Welcome to my corner of the Internet!</h1>
+  <h1>Hi there! BABULAL Here!👋 Welcome to my corner of the Internet!</h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+Graduate;Software+Engineer;Data+Alchemist;I+turn+coffee+into+code;Professional+Bug+Hunter" alt="Typing SVG" />
 </div>
 
@@ -35,15 +35,13 @@
 ---
 
 ### 📊 GitHub Activity & Stats
-BABUxGAMER
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=octocat&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BABUxGAMER&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
 <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=cyberpunk&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BABUxGAMER&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BABUxGAMER&theme=cyberpunk&hide_border=true" width="48%" />
 </p>
 
 <br/>
