@@ -21,7 +21,7 @@
 ### 🛠️ Tech Stack & Arsenal
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,tailwind,nodejs,postgres,mongo,docker,git,linux&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mongo,docker,git,linux&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
