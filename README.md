@@ -6,35 +6,44 @@
 <br/>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRteDBlbHBvcG5sYzl4dWk1dzlkcXBhZGFzYThzZGtjczlkeHhzbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGjti1hD8Zf3/giphy.gif" width="220" alt="Cheeky coding animation"/>
+  <img src="https://media.giphy.com/media/VbK0BEnP2gP0Xv5U5I/giphy.gif" width="250" alt="Funky Hacker Gamer Animation"/>
 </div>
 
-### 🚀 About Me (The TL;DR)
+<br/>
+
+<!-- Neon Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider"/>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" height="25" /> About Me (The TL;DR)
 - 🎓 Proud survivor of a **B.Tech in Computer Science & Engineering**.
 - 🐛 I write code that *sometimes* works on the first try.
 - 🧠 Currently geeking out over predictive modeling and data analysis.
 - 📫 How to reach me: Send a pull request or drop an email.
 - ⚡ Fun fact: I consider Stack Overflow my unofficial co-author.
 
----
+<!-- Neon Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider"/>
 
-### 🛠️ Tech Stack & Arsenal
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Arsenal
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,mongo,docker,git,linux&theme=dark" alt="Skill Icons" />
+    <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,react,nextjs,tailwind,nodejs,postgres,mongo,docker,git,linux&theme=dark" alt="Skill Icons" />
   </a>
 </p>
 
----
+<!-- Neon Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider"/>
 
-### 🔥 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Fire.png" alt="Fire" width="25" height="25" /> Featured Projects
 * 🛒 **Walmart Sales Predictor:** A robust predictive modeling pipeline built to forecast weekly sales for Walmart, crunching massive historical datasets to find hidden purchasing trends.
 * 🤖 **Sentient To-Do List:** An app that passively-aggressively reminds you of the tasks you're avoiding. (Work in progress...)
 * 🌐 **Portfolio v4.0:** Because the first three versions weren't over-engineered enough.
 
----
+<!-- Neon Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="neon divider"/>
 
-### 📊 GitHub Activity & Stats
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="25" height="25" /> GitHub Activity & Stats
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BABUxGAMER&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
@@ -43,6 +52,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BABUxGAMER&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BABUxGAMER&theme=cyberpunk&hide_border=true" width="48%" />
 </p>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/readme-jokes/readme-jokes">
+    <img src="https://readme-jokes.vercel.app/api?theme=cyberpunk&hideBorder=true" alt="Jokes Card" />
+  </a>
+</div>
 
 <br/>
 
