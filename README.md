@@ -44,6 +44,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien" width="25" height="25" /> GitHub Activity & Stats
 
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BABUxGAMER&theme=cyberpunk&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
 </div>
@@ -52,6 +53,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BABUxGAMER&show_icons=true&theme=cyberpunk&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BABUxGAMER&theme=cyberpunk&hide_border=true" width="48%" />
 </p>
+
+<br/>
+
+<br/>
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="25" height="25" /> Contribution Snake Game</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BABUxGAMER/BABUxGAMER/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 <br/>
 
